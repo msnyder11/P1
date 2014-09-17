@@ -13,7 +13,7 @@
 		<h1>Max Snyder</h1>
 		
 		<div class = "image">
-			<img src="pic.jpg"; width = 30%; height = 30%/>
+			<img src="pic.JPG"; width = 30%; height = 30%/>
 		</div>
 		<div class="text"> 
 			<p>
