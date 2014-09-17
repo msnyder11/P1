@@ -1,7 +1,7 @@
 # P1: Portfolio
 
 #### Project URL
-<http://helloworld.maxsnyder.me> 
+<http://p1.maxsnyder.me> 
 
 #### Project Description
 This project is a single page website that contains some information about me. It has my name, a picture, and links to my other projects. It also has my answers to some questions.
