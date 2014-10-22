@@ -20,12 +20,12 @@
 				<h2>
 					Project 2
 				</h2>
-				view: [link]  github: [link]
+				view: p2.maxsnyder.me  github: https://github.com/msnyder11/P2
 
 				<h2>
 					Project 3
 				</h2>
-				view: [link]  github: [link]
+				view: p3.maxsnyder.me  github: https://github.com/msnyder11/P3
 
 				<h2>
 					Project 4
