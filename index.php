@@ -20,17 +20,17 @@
 				<h2>
 					Project 2
 				</h2>
-				view: <a href='https://p2.maxsnyder.me'> p2.maxsnyder.me </a>  github: <a href='https://github.com/msnyder11/P2'> https://github.com/msnyder11/P2 </a>
+				view: <a> p2.maxsnyder.me </a>  github: <a href='https://github.com/msnyder11/P2'> https://github.com/msnyder11/P2 </a>
 
 				<h2>
 					Project 3
 				</h2>
-				view: <a href='https://p3.maxsnyder.me'> p3.maxsnyder.me </a>  github: <a href='https://github.com/msnyder11/p3'> https://github.com/msnyder11/P3 </a>
+				view: <a> p3.maxsnyder.me </a>  github: <a href='https://github.com/msnyder11/p3'> https://github.com/msnyder11/P3 </a>
 
 				<h2>
 					Project 4
 				</h2>
-				view: <a href='https://p4.maxsnyder.me'> p4.maxsnyder.me </a>  github: <a href='https://github.com/msnyder11/p4'> https://github.com/msnyder11/P4 </a>
+				view: <a> p4.maxsnyder.me </a>  github: <a href='https://github.com/msnyder11/p4'> https://github.com/msnyder11/P4 </a>
 
 			</p>			
 			
